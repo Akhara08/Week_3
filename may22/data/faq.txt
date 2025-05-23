@@ -6,3 +6,6 @@ ChromaDB is a vector database that stores and retrieves data using vector embedd
 
 What is Gemini?
 Gemini is Google's LLM API for generating content and answering questions using advanced AI models.
+
+what is gemini API
+The Gemini API is a tool that allows developers to access and use Google's latest Gemini models for building generative AI applications
