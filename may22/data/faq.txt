@@ -1,0 +1,8 @@
+What is RAG?
+Retrieval-Augmented Generation (RAG) is an AI technique that retrieves relevant documents to improve answer accuracy.
+
+How does ChromaDB work?
+ChromaDB is a vector database that stores and retrieves data using vector embeddings for similarity search.
+
+What is Gemini?
+Gemini is Google's LLM API for generating content and answering questions using advanced AI models.
